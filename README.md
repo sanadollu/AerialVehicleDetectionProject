@@ -1,6 +1,6 @@
 # Aerial Vehicle Detection
 
-This project addresses an image classification task using both traditional machine learning algorithms (HOG + ML) and a deep learning approach (CNN). The goal is to compare these methods in terms of accuracy, generalization, and practical performance.
+This project addresses an image classification task using both traditional machine learning algorithms (HOG + ML) and a deep learning approach (CNN). 
 
 ## Objective
 
