@@ -10,7 +10,7 @@ The goal is to build and compare multiple models for vehicle detection using:
 
 ## Dataset
 
-- **Source**: Kaggle aerial imagery dataset
+- **Source**: [Kaggle aerial imagery dataset](https://www.kaggle.com/datasets/javiersanchezsoriano/traffic-images-captured-from-uavs)
 - **Total Images**: 4,500 (1920x1080 resolution)
 - **Classes**:
   - Cars: 11,650 instances
