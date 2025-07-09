@@ -57,19 +57,20 @@ Annotations were provided in `(class_id, x_center, y_center, width, height)` for
 - Confusion Matrix
 
 ## Requirements
+
 Below are the main Python packages required to run the project:
-- numpy
-- pandas
+- numpy 1.22.4
+- pandas 1.5.3
 - matplotlib
 - plotly
-- opencv-python
-- scikit-image
-- scikit-learn
-- xgboost
-- joblib
-- torch
-- torchvision
-- Pillow
+- opencv-python 4.8.1
+- scikit-image 0.18.3
+- scikit-learn 1.4.1
+- xgboost 1.5.0
+- joblib 1.3.2
+- torch 1.13.1
+- torchvision 0.14.1
+- Pillow 8.4.0
 
 ## Developers
 Sena Ezgi Anadollu
